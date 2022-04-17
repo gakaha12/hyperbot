@@ -2,7 +2,7 @@
 
 export TOKEN=
 export BOT_NAME=
-export USE_LC0=true
-export ENGINE_MOVE_OVERHEAD=1000
+export USE_stockfish14m=true
+export ENGINE_MOVE_OVERHEAD=5000
 
 node server.js
